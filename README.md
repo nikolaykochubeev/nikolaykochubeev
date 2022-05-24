@@ -1,5 +1,3 @@
-![Metrics](/metrics.plugin.languages.svg)
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
-
-![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="400">
