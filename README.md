@@ -1,6 +1,6 @@
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-<img align="center" src="/metrics.plugin.languages.svg" alt="Metrics" width="400">
-<img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" width="400">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/metrics.plugin.languages.svg" alt="Metrics" width="100%">
+<img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="100%">
 
 
