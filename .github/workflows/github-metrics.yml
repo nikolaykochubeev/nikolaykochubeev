@@ -7,7 +7,7 @@ on:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
-  main-metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
